@@ -8,9 +8,6 @@ public class Marker {
 		
 		
 		public static String category ="Sarmistha";
-		
-		
-		
 		public void write(String input)
 		{
 			System.out.println(input);
