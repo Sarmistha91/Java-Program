@@ -23,7 +23,7 @@ public class Cat extends Animal implements Hunter,Jumper,Runner{
 		c.hunt();
 		c.run(34);
 		c.move(7);
-		c.jump(45);
+		c.jump(72);
 		// TODO Auto-generated method stub
 
 	}
